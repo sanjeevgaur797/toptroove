@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toptroove/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/toptroove/static/js/main.4f20e36a.chunk.js",
+    "main.js.map": "/toptroove/static/js/main.4f20e36a.chunk.js.map",
+    "runtime-main.js": "/toptroove/static/js/runtime-main.8e84d887.js",
+    "runtime-main.js.map": "/toptroove/static/js/runtime-main.8e84d887.js.map",
+    "static/js/2.23efaa4f.chunk.js": "/toptroove/static/js/2.23efaa4f.chunk.js",
+    "static/js/2.23efaa4f.chunk.js.map": "/toptroove/static/js/2.23efaa4f.chunk.js.map",
+    "static/js/3.a19e010e.chunk.js": "/toptroove/static/js/3.a19e010e.chunk.js",
+    "static/js/3.a19e010e.chunk.js.map": "/toptroove/static/js/3.a19e010e.chunk.js.map",
+    "index.html": "/toptroove/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/toptroove/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.23efaa4f.chunk.js.LICENSE.txt": "/toptroove/static/js/2.23efaa4f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/toptroove/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e84d887.js",
+    "static/js/2.23efaa4f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4f20e36a.chunk.js"
+  ]
+}
