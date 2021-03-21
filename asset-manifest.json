@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/toptroove/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/toptroove/static/js/main.a36da155.chunk.js",
-    "main.js.map": "/toptroove/static/js/main.a36da155.chunk.js.map",
+    "main.js": "/toptroove/static/js/main.da788dad.chunk.js",
+    "main.js.map": "/toptroove/static/js/main.da788dad.chunk.js.map",
     "runtime-main.js": "/toptroove/static/js/runtime-main.f39b4b9d.js",
     "runtime-main.js.map": "/toptroove/static/js/runtime-main.f39b4b9d.js.map",
     "static/js/2.41a7878b.chunk.js": "/toptroove/static/js/2.41a7878b.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.6d68ddef.chunk.js.map": "/toptroove/static/js/3.6d68ddef.chunk.js.map",
     "index.html": "/toptroove/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/toptroove/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.41a7878b.chunk.js.LICENSE.txt": "/toptroove/static/js/2.41a7878b.chunk.js.LICENSE.txt"
+    "static/js/2.41a7878b.chunk.js.LICENSE.txt": "/toptroove/static/js/2.41a7878b.chunk.js.LICENSE.txt",
+    "static/media/peerpower.7d11867f.jpeg": "/toptroove/static/media/peerpower.7d11867f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.f39b4b9d.js",
     "static/js/2.41a7878b.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a36da155.chunk.js"
+    "static/js/main.da788dad.chunk.js"
   ]
 }
